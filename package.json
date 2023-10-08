@@ -1,0 +1,19 @@
+{
+  "name": "npm_tocon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmatan10/tocon_npm_package.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cmatan10/tocon_npm_package/issues"
+  },
+  "homepage": "https://github.com/cmatan10/tocon_npm_package#readme"
+}
