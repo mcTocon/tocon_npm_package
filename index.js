@@ -25,3 +25,8 @@ async function Tocon(contractAdd) {
         alert('Meta Mask not detected');
     }
 }
+
+// create:
+    // func: exsit/not exsit for erc1155
+    // func: used/unused for erc721
+    // func: used/unused for erc1155
